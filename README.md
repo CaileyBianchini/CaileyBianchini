@@ -8,7 +8,7 @@ I was raised around technology and it was only a matter of time I dabbled into i
 
 By a miracle I found out about [AIE](https://aie.edu/) a technical college that teaches art and programming for games.
 
-##Links
+###Links
 [Resume](https://github.com/CaileyBianchini/CaileyBianchini/blob/main/GamePrograming_Resume_CaileyBianchini.pdf)
 [Linkdin](https://www.linkedin.com/in/cailey-bianchini-9517081ba/)
 [Itchio](https://caileyb.itch.io/)
