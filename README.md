@@ -10,14 +10,14 @@
   
 ## Games
 
-<img src="4j+qKU.gif" alt="Bread Crumbs" width="333"/>
 ### Bread Crumbs
+<img src="4j+qKU.gif" alt="Bread Crumbs" width="333"/>
   Bread Crumbs is an arcade-like, 3rd-person game that follows a character named Hoody. As Hoody, your job is to gather as many crumbs as possible while avoiding whatever may lurk in the dark. You will be exploring the Forest of Gluttony with a limited field of vision. The only way to survive is to evade, but no worries! You may find advantages in unexpected places.
 <img src="2JN4Yi.png" alt="Bread Crumbs Menu" width="333"/>
 [Itchio Page](https://gluttonproductions.itch.io/bread-crumbs)
 
+### Rogue Star
 <img src="iApud_.png" alt="Rogue Star" width="333"/>
-## Rogue Star
   You will be playing as Rogue Star and trying to gather treasures while not getting caught. Your small figure helps allow you to get into small nooks and crannies but unfortunately, it's a disadvantage against the brutes that tower over you so fighting is no option. You can only avoid them and hope you won't make a scene.
   
 [Itchio Page](https://liquid-moon-productions.itch.io/rogue-star)
