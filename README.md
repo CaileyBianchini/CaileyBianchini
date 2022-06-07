@@ -3,6 +3,7 @@
 🐱‍👤 I’m currently trying to expand what I learned from the basics. 
 
 [Resume](https://github.com/CaileyBianchini/CaileyBianchini/blob/main/GamePrograming_Resume_CaileyBianchini.pdf)
+[Linkdin](https://www.linkedin.com/in/cailey-bianchini-9517081ba/)
 
 <!--
 **CaileyBianchini/CaileyBianchini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
