@@ -28,3 +28,7 @@
 [Linkdin](https://www.linkedin.com/in/cailey-bianchini-9517081ba/)
 [Itchio](https://caileyb.itch.io/)
 [Facebook](https://www.facebook.com/profile.php?id=100079209101080)
+
+## Contact
+[Facebook](https://www.facebook.com/profile.php?id=100079209101080)
+[Cailey#2567 Discord](https://discord.com/)
