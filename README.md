@@ -29,7 +29,7 @@
 
 ## Links
 
-* [Resume](https://github.com/CaileyBianchini/CaileyBianchini/blob/main/GamePrograming_Resume_CaileyBianchini.pdf)
+* [Resume](https://resume.creddle.io/resume/jk0a9153nfc)
 * [Linkdin](https://www.linkedin.com/in/cailey-bianchini-9517081ba/)
 * [Itchio]([https://caileyb.itch.io/](https://caileybianchini.itch.io/))
 * [Facebook](https://www.facebook.com/profile.php?id=100079209101080)
