@@ -2,7 +2,7 @@
 
   I'm a game programmer and enjoy writing and art. I'm proficient in C# and C++ from scratch and have completed projects in Unreal Engine 4 and Unity. 
 
-  I was raised around technology and it was only a matter of time I dabbled into it as I was a student of David Thibodaux STEM Magnet Academy. In middle school I was in the robotics club. In high school I went down the technology field and went into digital media and was exposed to coding video games. This is when I knew I wanted to be a game programmer. Then in senior year a programming class opened up. Our teacher told us about a nation wide app challenge. So in 2019 I participated in the [2019 Congressional App Challenge](https://www.klfy.com/local/congressman-higgins-announces-winners-of-the-2019-congressional-app-challenge/) as a Graphic Designer. 
+  Since I was a student at David Thibodaux STEM Magnet Academy, it was only a matter of time before I started dabbling in technology. I was in the robotics club in middle school. While in high school, I studied digital media and was exposed to coding video games. It was then that I knew I wanted to become a game programmer. In my senior year, a programming class became available. And in 2019, I participated in the [2019 Congressional App Challenge](https://www.klfy.com/local/congressman-higgins-announces-winners-of-the-2019-congressional-app-challenge/) as a Graphic Designer. 
 
 
 
@@ -14,7 +14,7 @@
 
 <img src="4j+qKU.gif" alt="Bread Crumbs" width="333"/>
   In this project I created player's movement, a light power up, and packaged the project properly. I also created the documentation and Readme for the game. We used Github, Gitkraken, and Unity to create this project and allow each other to see other's works
-<img src="2JN4Yi.png" alt="Bread Crumbs Menu" width="333"/>
+<img src="O9iprX.png" alt="Bread Crumbs Menu" width="333"/>
 
 * [Itchio Page](https://gluttonproductions.itch.io/bread-crumbs)
 * [Repo](https://github.com/NicholasPhJordan/BreadCrumbs)
@@ -23,6 +23,7 @@
 
 <img src="iApud_.png" alt="Rogue Star" width="333"/>
   In this project I created the Enemy AI, the Stealth UI and was the head of the SFX. We used Preforce to be able to share and few eachothers works and combine them and the project was made in Unreal Engine 4.
+<img src="DRr6T9.png" alt="Rogue Star" width="333"/>
   
 * [Itchio Page](https://liquid-moon-productions.itch.io/rogue-star)
 * [Youtube](https://www.youtube.com/watch?v=eMQXlPkYybM)
