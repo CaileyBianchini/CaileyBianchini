@@ -13,16 +13,16 @@
 ### Bread Crumbs
 
 <img src="4j+qKU.gif" alt="Bread Crumbs" width="333"/>
-  Bread Crumbs is an arcade-like, 3rd-person game that follows a character named Hoody. As Hoody, your job is to gather as many crumbs as possible while avoiding whatever may lurk in the dark. You will be exploring the Forest of Gluttony with a limited field of vision. The only way to survive is to evade, but no worries! You may find advantages in unexpected places.
+  In this project I created player's movement, a light power up, and packaged the project properly. I also created the documentation and Readme for the game. We used Github, Gitkraken, and Unity to create this project and allow each other to see other's works
 <img src="2JN4Yi.png" alt="Bread Crumbs Menu" width="333"/>
 
 * [Itchio Page](https://gluttonproductions.itch.io/bread-crumbs)
-* Repo
+* [Repo](https://github.com/NicholasPhJordan/BreadCrumbs)
 
 ### Rogue Star
 
 <img src="iApud_.png" alt="Rogue Star" width="333"/>
-  You will be playing as Rogue Star and trying to gather treasures while not getting caught. Your small figure helps allow you to get into small nooks and crannies but unfortunately, it's a disadvantage against the brutes that tower over you so fighting is no option. You can only avoid them and hope you won't make a scene.
+  In this project I created the Enemy AI, the Stealth UI and was the head of the SFX. We used Preforce to be able to share and few eachothers works and combine them and the project was made in Unreal Engine 4.
   
 * [Itchio Page](https://liquid-moon-productions.itch.io/rogue-star)
 * [Youtube](https://www.youtube.com/watch?v=eMQXlPkYybM)
@@ -31,7 +31,7 @@
 
 * [Resume](https://resume.creddle.io/resume/jk0a9153nfc)
 * [Linkdin](https://www.linkedin.com/in/cailey-bianchini-9517081ba/)
-* [Itchio]([https://caileyb.itch.io/](https://caileybianchini.itch.io/))
+* [Itchio](https://caileybianchini.itch.io/)
 * [Facebook](https://www.facebook.com/profile.php?id=100079209101080)
 
 ## Contact
